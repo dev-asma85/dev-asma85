@@ -1,10 +1,10 @@
-<img style="margin-left: 11%; height=: 100px; " src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462542108_479959524443666_3824172840381850662_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHLBVNnhWhoUFsi-BXfsACj2xqpVI-YPqLbGqlUj5g-opJuo_pSDYIk7NmPM3sjS5kg_z-Ly1zrnm677BCXeybv&_nc_ohc=5sRtAVuHNKYQ7kNvgGbSTeW&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QGkBrXVU3TixHhd4S_J7Wm3cFGKWEHI2BBHWpKg6wqQ4Q&oe=675A92F8" alt="dev-asma">
+<img style="margin-left: 11%; height=: 100px; " src="https://i.postimg.cc/fWp8sFCk/download-3.jpg" alt="dev-asma">
 
 
 <h1 align="center">Hey 👋, This is Asma Akter</h1>
 <h3 align="center">Passional Web Designer Web Developer & WordPress Expert | Clean Code | Web Solutions | Beautiful Design</h3>
 
-<p align="left"> <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/465692038_1093292159043839_1951330133384308280_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeFebR1cecYKuV0lTD4oUhtQoEuNxsFSRjCgS43GwVJGMNbzIZJCD1DJC0K3euxECmovnK6eKylLuKjniejUGZ-u&_nc_ohc=d5mwCb9RZkIQ7kNvgGrqMb-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHkI4rRNP1E5lwF0teOPMbeTHXISLghdyAGnrOocV-2kg&oe=675A9D1F" alt="dev-asma" /> </p>
+<p align="left"> <img src="https://i.postimg.cc/FRqz89hr/download-1.jpg" alt="dev-asma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-asma" alt="dev-asma" /></a> </p>
 
@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-asma&show_icons=true&locale=en" alt="dev-asma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-asma&" alt="dev-asma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-asma&" alt="dev-asma" /></p>
